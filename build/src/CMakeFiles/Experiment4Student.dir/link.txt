@@ -1,0 +1,2 @@
+F:\mingw64\bin\ar.exe qc F:\CS\C++\experiment\exp1\Experiment4Student\bin\libExperiment4Student.a CMakeFiles/Experiment4Student.dir/Direction.cpp.obj CMakeFiles/Experiment4Student.dir/ExecutorImpl.cpp.obj CMakeFiles/Experiment4Student.dir/Point.cpp.obj CMakeFiles/Experiment4Student.dir/PoseHandler.cpp.obj
+F:\mingw64\bin\ranlib.exe F:\CS\C++\experiment\exp1\Experiment4Student\bin\libExperiment4Student.a

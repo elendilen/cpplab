@@ -1,0 +1,3 @@
+D:\Cmake\bin\cmake.exe -E rm -f CMakeFiles\Experiment4Student-main.dir/objects.a
+F:\mingw64\bin\ar.exe qc CMakeFiles\Experiment4Student-main.dir/objects.a @CMakeFiles\Experiment4Student-main.dir\objects1.rsp
+F:\mingw64\bin\c++.exe -Wno-deprecated-declarations -Wall -Werror -Wnon-virtual-dtor -Woverloaded-virtual -g -Wl,--whole-archive CMakeFiles\Experiment4Student-main.dir/objects.a -Wl,--no-whole-archive -o F:\CS\C++\experiment\exp1\Experiment4Student\bin\Experiment4Student-main.exe -Wl,--out-implib,F:\CS\C++\experiment\exp1\Experiment4Student\bin\libExperiment4Student-main.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Experiment4Student-main.dir\linkLibs.rsp
